@@ -1,6 +1,6 @@
 # 🎹 Music Scale & Chord Finder
 
-A Python-based music theory engine designed to identify scales and chords from user-provided notes. This project serves as the foundational "Phase 1" project for **Roadmap 2: AI, ML, DL, and NLP**.
+A Python-based music theory engine designed to identify scales and chords from user-provided notes. 
 
 ## 🚀 Overview
 This tool allows musicians and developers to input a set of notes and instantly discover:
@@ -13,7 +13,7 @@ This tool allows musicians and developers to input a set of notes and instantly 
 - **Data Normalization:** Employs `.strip()`, `.capitalize()`, and `.split()` to ensure clean data processing.
 - **Modulo Arithmetic:** Uses `(root + interval) % 12` to handle the circular nature of musical notes (the "Musical Clock").
 
-## 📁 Roadmap Status
+## 📁 StatusRoadmap
 - [x] Feature 1: Root-based Scale Finder
 - [x] Version Control: GitHub Repository Integration
 - [ ] Feature 2: Probability/Fuzzy Matching (Upcoming)
