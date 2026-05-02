@@ -15,9 +15,7 @@ This tool allows musicians and developers to input a set of notes and instantly 
 
 ## 📁 Status
 - [x] Feature 1: Root-based Scale Finder
-- [x] Version Control: GitHub Repository Integration
-- [ ] Feature 2: Probability/Fuzzy Matching (Upcoming)
-- [ ] Feature 3: Full Chord Library Integration (Upcoming)
+
 
 ## 💻 Usage
 ```bash
